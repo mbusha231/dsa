@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793159069 source:c:\users\msis\downloads\dsa_s\hash\main.c
+	<assert.h>
+	"hash.h"
+
+1793159631 c:\users\msis\downloads\dsa_s\hash\hash.h
+	<stdint.h>
+
